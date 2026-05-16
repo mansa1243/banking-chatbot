@@ -1,0 +1,102 @@
+{
+    "user1": {
+        "name": "Manasa",
+        "balance": 18321.0,
+        "account_number": "1001"
+    },
+    "user2": {
+        "name": "Rahul",
+        "balance": 25204.0,
+        "account_number": "1002"
+    },
+    "user3": {
+        "name": "Anita",
+        "balance": 34250.0,
+        "account_number": "1003"
+    },
+    "user4": {
+        "name": "Kiran",
+        "balance": 13010,
+        "account_number": "1004"
+    },
+    "user5": {
+        "name": "Sneha",
+        "balance": 31915.0,
+        "account_number": "1005"
+    },
+    "user6": {
+        "name": "Arjun",
+        "balance": 39500,
+        "account_number": "1006"
+    },
+    "user7": {
+        "name": "Meena",
+        "balance": 17800,
+        "account_number": "1007"
+    },
+    "user8": {
+        "name": "Ravi",
+        "balance": 12000,
+        "account_number": "1008"
+    },
+    "user9": {
+        "name": "Divya",
+        "balance": 34000,
+        "account_number": "1009"
+    },
+    "user10": {
+        "name": "Suresh",
+        "balance": 29000,
+        "account_number": "1010"
+    },
+    "user11": {
+        "name": "Pooja",
+        "balance": 31000,
+        "account_number": "1011"
+    },
+    "user12": {
+        "name": "Rohit",
+        "balance": 26000,
+        "account_number": "1012"
+    },
+    "user13": {
+        "name": "Lakshmi",
+        "balance": 38000,
+        "account_number": "1013"
+    },
+    "user14": {
+        "name": "Manoj",
+        "balance": 17000,
+        "account_number": "1014"
+    },
+    "user15": {
+        "name": "Kavya",
+        "balance": 24000,
+        "account_number": "1015"
+    },
+    "user16": {
+        "name": "Deepak",
+        "balance": 36000,
+        "account_number": "1016"
+    },
+    "user17": {
+        "name": "Nisha",
+        "balance": 21000,
+        "account_number": "1017"
+    },
+    "user18": {
+        "name": "Harish",
+        "balance": 28000,
+        "account_number": "1018"
+    },
+    "user19": {
+        "name": "Swathi",
+        "balance": 33000,
+        "account_number": "1019"
+    },
+    "user20": {
+        "name": "Vikram",
+        "balance": 42000,
+        "account_number": "1020"
+    }
+}

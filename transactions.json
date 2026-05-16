@@ -1,0 +1,563 @@
+[
+    {
+        "user": "user1",
+        "amount": 500,
+        "to": "user2",
+        "date": "2026-05-12 10:00:00"
+    },
+    {
+        "user": "user1",
+        "amount": 1200,
+        "to": "Amazon",
+        "date": "2026-05-11 14:30:00"
+    },
+    {
+        "user": "user1",
+        "amount": 300,
+        "to": "Recharge",
+        "date": "2026-05-10 09:15:00"
+    },
+    {
+        "user": "user1",
+        "amount": 450,
+        "to": "Groceries",
+        "date": "2026-05-09 18:20:00"
+    },
+    {
+        "user": "user1",
+        "amount": 800,
+        "to": "Electricity",
+        "date": "2026-05-08 11:45:00"
+    },
+    {
+        "user": "user1",
+        "amount": 1500,
+        "to": "user3",
+        "date": "2026-05-07 13:10:00"
+    },
+    {
+        "user": "user1",
+        "amount": 220,
+        "to": "Snacks",
+        "date": "2026-05-06 17:40:00"
+    },
+    {
+        "user": "user1",
+        "amount": 900,
+        "to": "Fuel",
+        "date": "2026-05-05 08:30:00"
+    },
+    {
+        "user": "user1",
+        "amount": 350,
+        "to": "Pharmacy",
+        "date": "2026-05-04 19:00:00"
+    },
+    {
+        "user": "user1",
+        "amount": 700,
+        "to": "user4",
+        "date": "2026-05-03 16:15:00"
+    },
+    {
+        "user": "user1",
+        "amount": 650,
+        "to": "Movie",
+        "date": "2026-05-02 20:00:00"
+    },
+    {
+        "user": "user1",
+        "amount": 1800,
+        "to": "Laptop EMI",
+        "date": "2026-05-01 09:45:00"
+    },
+    {
+        "user": "user1",
+        "amount": 400,
+        "to": "Metro",
+        "date": "2026-04-30 08:10:00"
+    },
+    {
+        "user": "user1",
+        "amount": 2500,
+        "to": "Rent",
+        "date": "2026-04-29 07:00:00"
+    },
+    {
+        "user": "user1",
+        "amount": 150,
+        "to": "Tea Shop",
+        "date": "2026-04-28 18:25:00"
+    },
+    {
+        "user": "user2",
+        "amount": 700,
+        "to": "user3",
+        "date": "2026-05-12 09:00:00"
+    },
+    {
+        "user": "user2",
+        "amount": 300,
+        "to": "Recharge",
+        "date": "2026-05-11 12:00:00"
+    },
+    {
+        "user": "user2",
+        "amount": 1100,
+        "to": "Amazon",
+        "date": "2026-05-10 15:20:00"
+    },
+    {
+        "user": "user2",
+        "amount": 450,
+        "to": "Groceries",
+        "date": "2026-05-09 19:10:00"
+    },
+    {
+        "user": "user2",
+        "amount": 600,
+        "to": "Fuel",
+        "date": "2026-05-08 07:45:00"
+    },
+    {
+        "user": "user2",
+        "amount": 1300,
+        "to": "user5",
+        "date": "2026-05-07 11:00:00"
+    },
+    {
+        "user": "user2",
+        "amount": 250,
+        "to": "Snacks",
+        "date": "2026-05-06 18:30:00"
+    },
+    {
+        "user": "user2",
+        "amount": 800,
+        "to": "Electricity",
+        "date": "2026-05-05 10:10:00"
+    },
+    {
+        "user": "user2",
+        "amount": 400,
+        "to": "Pharmacy",
+        "date": "2026-05-04 20:00:00"
+    },
+    {
+        "user": "user2",
+        "amount": 950,
+        "to": "user6",
+        "date": "2026-05-03 14:25:00"
+    },
+    {
+        "user": "user3",
+        "amount": 1500,
+        "to": "user1",
+        "date": "2026-05-12 08:20:00"
+    },
+    {
+        "user": "user3",
+        "amount": 500,
+        "to": "Groceries",
+        "date": "2026-05-11 17:40:00"
+    },
+    {
+        "user": "user3",
+        "amount": 300,
+        "to": "Recharge",
+        "date": "2026-05-10 10:10:00"
+    },
+    {
+        "user": "user3",
+        "amount": 1000,
+        "to": "Amazon",
+        "date": "2026-05-09 13:30:00"
+    },
+    {
+        "user": "user3",
+        "amount": 750,
+        "to": "Fuel",
+        "date": "2026-05-08 09:50:00"
+    },
+    {
+        "user": "user3",
+        "amount": 2000,
+        "to": "user2",
+        "date": "2026-05-07 15:00:00"
+    },
+    {
+        "user": "user3",
+        "amount": 450,
+        "to": "Pharmacy",
+        "date": "2026-05-06 19:15:00"
+    },
+    {
+        "user": "user3",
+        "amount": 600,
+        "to": "Electricity",
+        "date": "2026-05-05 11:30:00"
+    },
+    {
+        "user": "user3",
+        "amount": 350,
+        "to": "Snacks",
+        "date": "2026-05-04 16:40:00"
+    },
+    {
+        "user": "user3",
+        "amount": 900,
+        "to": "user7",
+        "date": "2026-05-03 12:10:00"
+    },
+    {
+        "user": "user1",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-12 10:38:54"
+    },
+    {
+        "user": "user1",
+        "amount": 500,
+        "to": "user2",
+        "date": "2026-05-12 10:38:54"
+    },
+    {
+        "user": "user2",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-12 11:34:29"
+    },
+    {
+        "user": "user1",
+        "amount": 1,
+        "to": "transfer",
+        "date": "2026-05-12 21:42:30"
+    },
+    {
+        "user": "user6",
+        "to": "user4",
+        "amount": 500,
+        "date": "2026-05-12 22:28:45"
+    },
+    {
+        "user": "user5",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-13 12:41:38"
+    },
+    {
+        "user": "user5",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-13 12:51:18",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user1",
+        "to": "user2",
+        "amount": 300,
+        "date": "2026-05-13 12:53:10",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user5",
+        "to": "user2",
+        "amount": 400,
+        "date": "2026-05-13 12:55:43",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user5",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-13 13:58:15",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user5",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-13 13:58:33",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user7",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-13 13:58:48",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user4",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-13 13:59:08",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user7",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-13 13:59:31",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user3",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-13 14:00:53",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user3",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-13 14:12:20",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user4",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-13 14:46:53",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user1",
+        "to": "user2",
+        "amount": 1,
+        "date": "2026-05-13 14:49:11",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user1",
+        "to": "user2",
+        "amount": 1,
+        "date": "2026-05-13 14:49:11"
+    },
+    {
+        "user": "user7",
+        "to": "user1",
+        "amount": 700,
+        "date": "2026-05-14 09:28:39",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user4",
+        "to": "user5",
+        "amount": 500,
+        "date": "2026-05-14 09:41:43",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user7",
+        "to": "user1",
+        "amount": 700,
+        "date": "2026-05-14 09:42:20",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user2",
+        "to": "user5",
+        "amount": 0,
+        "date": "2026-05-14 09:43:21",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user4",
+        "to": "user5",
+        "amount": 500,
+        "date": "2026-05-14 09:46:07",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user7",
+        "to": "user1",
+        "amount": 700,
+        "date": "2026-05-14 09:53:40",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user7",
+        "to": "user1",
+        "amount": 700,
+        "date": "2026-05-14 10:00:23",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user7",
+        "to": "user1",
+        "amount": 700,
+        "date": "2026-05-14 10:02:16",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user4",
+        "to": "user5",
+        "amount": 500,
+        "date": "2026-05-14 10:22:18",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user7",
+        "to": "user1",
+        "amount": 700,
+        "date": "2026-05-14 10:25:47",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user4",
+        "to": "user5",
+        "amount": 500,
+        "date": "2026-05-14 10:30:06",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "user": "user9",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-14 10:30:12",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "transaction_id": "TXN104357",
+        "user": "user7",
+        "to": "user1",
+        "amount": 700,
+        "date": "2026-05-14 10:43:57",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "transaction_id": "TXN104405",
+        "user": "user1",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-14 10:44:05",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "transaction_id": "TXN104426",
+        "user": "user1",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-14 10:44:26",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "transaction_id": "TXN104804",
+        "user": "user9",
+        "to": "user2",
+        "amount": 500,
+        "date": "2026-05-14 10:48:04",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "transaction_id": "TXN104853",
+        "user": "user4",
+        "to": "user5",
+        "amount": 500,
+        "date": "2026-05-14 10:48:53",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "transaction_id": "TXN110450",
+        "user": "user1",
+        "to": "user2",
+        "amount": 500.0,
+        "date": "2026-05-14 11:04:50",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "transaction_id": "TXN110624",
+        "user": "user1",
+        "to": "user5",
+        "amount": 800.0,
+        "date": "2026-05-14 11:06:24",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "transaction_id": "TXN110645",
+        "user": "user1",
+        "to": "user5",
+        "amount": 800.0,
+        "date": "2026-05-14 11:06:45",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "transaction_id": "TXN111427",
+        "user": "user1",
+        "to": "user5",
+        "amount": 800.0,
+        "date": "2026-05-14 11:14:27",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "transaction_id": "TXN111548",
+        "user": "user1",
+        "to": "user3",
+        "amount": 500.0,
+        "date": "2026-05-14 11:15:48",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "transaction_id": "TXN111955",
+        "user": "user1",
+        "to": "user3",
+        "amount": 500.0,
+        "date": "2026-05-14 11:19:55",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "transaction_id": "TXN112006",
+        "user": "user1",
+        "to": "user3",
+        "amount": 500.0,
+        "date": "2026-05-14 11:20:06",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    },
+    {
+        "transaction_id": "TXN130424",
+        "user": "user1",
+        "to": "user2",
+        "amount": 1000.0,
+        "date": "2026-05-14 13:04:24",
+        "type": "INSTANT",
+        "status": "SUCCESS"
+    }
+]
